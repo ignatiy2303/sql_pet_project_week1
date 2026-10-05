@@ -1,4 +1,4 @@
-# sql_pet_project_week1
+# SQL_pet_project_week1
 ## О проекте
 ### Общее описание проекта
 
